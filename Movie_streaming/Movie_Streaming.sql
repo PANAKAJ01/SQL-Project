@@ -2,9 +2,6 @@
 ===========================================================
 MOVIE STREAMING PLATFORM DATABASE (NETFLIX-LIKE)
 ===========================================================
-Description: SQL analysis queries for OTT / streaming platform
-===========================================================
-*/
 
 CREATE TABLE watch_history (
     record_id INT PRIMARY KEY,

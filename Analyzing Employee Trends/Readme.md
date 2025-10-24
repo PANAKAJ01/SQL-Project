@@ -4,7 +4,7 @@ These projects demonstrate my proficiency in SQL and my ability to analyze compl
 
 ---
 
-## 1. Analyzing Employee Trends
+## Analyzing Employee Trends
 [Analyzing Employee Trends.sql](Analyzing Employee Trends.sql) | [Dataset CSV](Analyzing Employee Trends.csv)
 
 **Project Description:**  
@@ -48,48 +48,3 @@ I utilized SQL to explore the data and derive insights to guide pricing, invento
 
 ---
 
-## 3. Call Center Data Cleaning
-[call_center.sql](call center.sql) | [Dataset CSV](call_center.csv)
-
-**Project Description:**  
-This project involved analysis of call center data to gain insights into call volume, customer satisfaction, and service performance. The data was stored in a MySQL table `call_center` within the `call_centerdata` schema.
-
-**Tasks Performed:**  
-- Imported the `call_center` table data into MySQL for analysis  
-- Performed initial data cleaning:
-  - Standardized date format to `YYYY-MM-DD`  
-  - Updated blank `csat_score` values to `NULL`  
-- Generated table summary statistics:
-  - Counted total rows and columns  
-  - Analyzed distinct values for sentiment, city, and call_center columns  
-- Analyzed call volume:
-  - Calculated call counts by day of week  
-  - Identified maximum call duration by day  
-- Analyzed customer satisfaction:
-  - Calculated minimum, maximum, and average CSAT scores  
-  - Removed scores of 0 from average calculation  
-- Analyzed service performance:
-  - Calculated response time counts by call center  
-  - Identified best and worst performing centers  
-
----
-
-## About SQL
-
-SQL (Structured Query Language) is a programming language used to interact with relational databases. Key capabilities include:  
-- **CRUD Operations** – Create, Read, Update, Delete data  
-- **Joins** – Combine data from multiple tables  
-- **Aggregate Functions** – Summations, counts, averages, etc.  
-- **Subqueries** – Nested queries for advanced operations  
-- **Stored Procedures** – Reusable routines for logic  
-- **Window Functions** – Analytics functions for rankings, running totals, and more  
-
-For these examples, Microsoft SQL Server Management Studio was used.
-
----
-
-## Usage
-
-1. Install a SQL database such as SQL Server Express.  
-2. Import any `.sql` files to run the queries.  
-3. Modify queries to fit your own database as needed.  

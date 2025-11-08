@@ -99,3 +99,4 @@ Patient_ID,Patient_Name,Gender,Age,Contact_Number,Doctor_Name,Department,Appoint
 1095,Priya Mehta,Male,67,9.18944E+11,Dr. D. Khan,Pediatrics,APT30401,23-09-2025,60,Losartan,1,BILL42802,680,UPI,No
 1059,Kavita Das,Male,72,9.19643E+11,Dr. B. Kapoor,Neurology,APT63906,14-03-2025,15,Cetrizine,3,BILL37985,1526,Insurance,Yes
 1019,Vikram Joshi,Female,12,9.19674E+11,Dr. C. Iyer,Orthopedics,APT95591,27-01-2025,30,Losartan,2,BILL15537,872,UPI,Yes
+

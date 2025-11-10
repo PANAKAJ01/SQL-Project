@@ -55,7 +55,7 @@ Banking Transaction Analysis/
 - Top customers, city-wise and officer-wise analyses
 - Deposits/withdrawals summary and more
 
-See [`Banking Transaction Analysis.sql`](Banking%20Transaction%20Analysis/%20Banking%20Transaction%20Analysis.sql) for the full list.
+
 
 ## How to Use
 
